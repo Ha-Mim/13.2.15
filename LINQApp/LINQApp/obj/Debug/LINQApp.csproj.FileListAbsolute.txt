@@ -1,0 +1,6 @@
+D:\asp.net\13.2.15\LINQApp\LINQApp\bin\Debug\LINQApp.exe.config
+D:\asp.net\13.2.15\LINQApp\LINQApp\bin\Debug\LINQApp.exe
+D:\asp.net\13.2.15\LINQApp\LINQApp\bin\Debug\LINQApp.pdb
+D:\asp.net\13.2.15\LINQApp\LINQApp\obj\Debug\LINQApp.csprojResolveAssemblyReference.cache
+D:\asp.net\13.2.15\LINQApp\LINQApp\obj\Debug\LINQApp.exe
+D:\asp.net\13.2.15\LINQApp\LINQApp\obj\Debug\LINQApp.pdb
